@@ -1,0 +1,118 @@
+.btn-primary {
+    color: #000;
+    background-color: #5b74e4;
+    border-color: #5b74e4;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.myrounded {
+    border-radius: .5rem;
+}
+
+.video {
+    justify-content: center;
+    display: flex;
+}
+
+.endpadding {
+    padding-bottom: 50px;
+}
+
+.section-heading-fourth {
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.anchorribbon {
+    margin-top: 30px;
+    background-color: #f6e1c5;
+    color: black;
+    padding: 20px;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.a2 {
+    color: #2f170f;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: smaller;
+}
+
+/* tableau styles and div styles below */
+
+.tbody {
+    background-image: url(../assets/images/galaxy-wallpaper-1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.tstyle {
+    padding: 50px;
+}
+
+.h5 {
+    font-size: 2.5rem;
+}
+
+.tcontainer {
+    background-color: blanchedalmond;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navcontainer {
+    margin-top: 20px;
+    background-color: #2f170f;
+    padding-top: 30px;
+    height: 50px;
+}
+
+.navrow {
+    flex-direction: row;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.navitem {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: bisque;
+    
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.navitem2 {
+    color: black;
+    padding-left: 5px;
+    font-size: inherit;
+}
+
+a:visited {
+    padding-left: inherit;
+    padding-right: inherit;
+    color: inherit;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: inherit;
+}
+
+a:hover {
+    color: inherit;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.captioncontainer {
+    background-color: blanchedalmond;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
